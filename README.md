@@ -7,3 +7,4 @@ Hobby Project ideas
 - Firefox / browser extension
   - Tabs cusomization
   - Pause reminder
+  - Password generator
