@@ -5,5 +5,5 @@ Hobby Project ideas
 - Personal Finance System 
 - Static Shop with Nextjs deployed to vercel: in progress
 - Firefox / browser extension
--- Tabs cusomization
--- Pause reminder
+  - Tabs cusomization
+  - Pause reminder
